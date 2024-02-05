@@ -1,14 +1,3 @@
-"""
-    PROGRAM TITLE: Stock Market Simulation
-    WRITTEN BY: James Hill
-    DATE WRITTEN: December, 2020
-    WRITTEN FOR: Personal Project
-    PROGRAM INTENT: This is a program that will simulate the random price
-    fluctuations of the stock market over the course of one quarter, here
-    defined as an average of 63 working days in a three-month period.
-
-
-"""
 
 # import necessary modules
 import random
